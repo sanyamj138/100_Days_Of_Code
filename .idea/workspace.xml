@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 2/BMI Calculator.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769965912212</updated>
       <workItem from="1769965913370" duration="1298000" />
-      <workItem from="1770055063367" duration="1469000" />
+      <workItem from="1770055063367" duration="2104000" />
     </task>
     <servers />
   </component>
@@ -187,7 +185,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_Of_Code$BMI_Calculator.coverage" NAME="BMI Calculator Coverage Results" MODIFIED="1770056533063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
+    <SUITE FILE_PATH="coverage/100_Days_Of_Code$BMI_Calculator.coverage" NAME="BMI Calculator Coverage Results" MODIFIED="1770056561360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Tip_Calculator.coverage" NAME="Tip Calculator Coverage Results" MODIFIED="1770056154045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Band_Name_Generator.coverage" NAME="Band Name Generator Coverage Results" MODIFIED="1769967122556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1" />
   </component>
