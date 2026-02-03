@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +40,7 @@
     "Python.Band Name Generator.executor": "Run",
     "Python.Pizza Order.executor": "Run",
     "Python.Tip Calculator.executor": "Run",
+    "Python.Treasure Island.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -233,7 +231,7 @@
       <updated>1769965912212</updated>
       <workItem from="1769965913370" duration="1298000" />
       <workItem from="1770055063367" duration="2104000" />
-      <workItem from="1770111992702" duration="2397000" />
+      <workItem from="1770111992702" duration="2702000" />
     </task>
     <servers />
   </component>
