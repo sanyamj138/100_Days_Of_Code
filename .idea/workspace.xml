@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 5/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/FizzBuzz.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +236,7 @@
       <workItem from="1770055063367" duration="2104000" />
       <workItem from="1770111992702" duration="2785000" />
       <workItem from="1770262349780" duration="390000" />
-      <workItem from="1770285532776" duration="3351000" />
+      <workItem from="1770285532776" duration="3491000" />
     </task>
     <servers />
   </component>
