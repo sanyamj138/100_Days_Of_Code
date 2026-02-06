@@ -1,4 +1,5 @@
 import random
+from multiprocessing.util import log_to_stderr
 
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 lettersCap = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -14,6 +15,12 @@ special = int(input("Number of Special Characters you want in the Password: "))
 list1 = []
 
 for i in range(letter):
-    list1.append(random.Random(letters))
+    list1.append(letters[random.randint(0, 25)])
+for i in range(letterCap):
+    list1.append(lettersCap[random.randint(0, 25)])
+for i in range(number):
+    list1.append(numbers[random.randint(0, 9)])
+for i in range(special):
+    list1.append(specialChar[random.randint(0, 10)])
 
-print()
+print(list1)
