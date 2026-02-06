@@ -24,3 +24,10 @@ for i in range(special):
     list1.append(specialChar[random.randint(0, 10)])
 
 print(list1)
+finalPassword = ""
+random.shuffle(list1)
+
+for i in range(len(list1)):
+    finalPassword += list1[i]
+
+print(finalPassword)
