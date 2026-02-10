@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 6/Try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Try.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Try">
+  <component name="RunManager" selected="Python.Hangman">
     <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_Of_Code" />
       <option name="ENV_FILES" value="" />
@@ -214,8 +215,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Try" />
         <item itemvalue="Python.Hangman" />
+        <item itemvalue="Python.Try" />
         <item itemvalue="Python.Password Generator" />
         <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.Rock Paper Scissor Game" />
@@ -244,7 +245,7 @@
       <workItem from="1770285532776" duration="4488000" />
       <workItem from="1770373394033" duration="2695000" />
       <workItem from="1770657035847" duration="1293000" />
-      <workItem from="1770745160884" duration="3218000" />
+      <workItem from="1770745160884" duration="3614000" />
     </task>
     <servers />
   </component>
@@ -256,12 +257,12 @@
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$BMI_Calculator__1_.coverage" NAME="BMI Calculator (1) Coverage Results" MODIFIED="1770112223160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Pizza_Order.coverage" NAME="Pizza Order Coverage Results" MODIFIED="1770113054178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Tip_Calculator.coverage" NAME="Tip Calculator Coverage Results" MODIFIED="1770056154045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
-    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Try.coverage" NAME="Try Coverage Results" MODIFIED="1770749358345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
+    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Try.coverage" NAME="Try Coverage Results" MODIFIED="1770749607769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Band_Name_Generator.coverage" NAME="Band Name Generator Coverage Results" MODIFIED="1769967122556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Password_Generator.coverage" NAME="Password Generator Coverage Results" MODIFIED="1770374956908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Treasure_Island.coverage" NAME="Treasure Island Coverage Results" MODIFIED="1770286243508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$FizzBuzz.coverage" NAME="FizzBuzz Coverage Results" MODIFIED="1770288891698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
-    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Hangman.coverage" NAME="Hangman Coverage Results" MODIFIED="1770748776431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
+    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Hangman.coverage" NAME="Hangman Coverage Results" MODIFIED="1770749765231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Rock_Paper_Scissor_Game.coverage" NAME="Rock Paper Scissor Game Coverage Results" MODIFIED="1770288173260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4" />
   </component>
 </project>
