@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 6/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +244,7 @@
       <workItem from="1770285532776" duration="4488000" />
       <workItem from="1770373394033" duration="2695000" />
       <workItem from="1770657035847" duration="1293000" />
-      <workItem from="1770745160884" duration="1706000" />
+      <workItem from="1770745160884" duration="2651000" />
     </task>
     <servers />
   </component>
@@ -259,7 +260,7 @@
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Password_Generator.coverage" NAME="Password Generator Coverage Results" MODIFIED="1770374956908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Treasure_Island.coverage" NAME="Treasure Island Coverage Results" MODIFIED="1770286243508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$FizzBuzz.coverage" NAME="FizzBuzz Coverage Results" MODIFIED="1770288891698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
-    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Hangman.coverage" NAME="Hangman Coverage Results" MODIFIED="1770747891006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
+    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Hangman.coverage" NAME="Hangman Coverage Results" MODIFIED="1770748776431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Rock_Paper_Scissor_Game.coverage" NAME="Rock Paper Scissor Game Coverage Results" MODIFIED="1770288173260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4" />
   </component>
 </project>
