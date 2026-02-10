@@ -8,10 +8,19 @@ import random
 wordList = ['camel', 'goat', 'horse', 'cat', 'dog']
 
 
-def hangman(word):
+def hangman():
     randomWord = random.choice(wordList)
+    listCollect = ''
 
-    for i in range(0, 5):
+    for i in range(0, 1):
         letterAsk = input("Guess a letter: ")
-        for j in range(len(randomWord)):
+        for j in range(0, len(randomWord)):
             if (letterAsk == randomWord[j]):
+                listCollect = listCollect + letterAsk
+            else:
+                listCollect = listCollect + '_'
+
+
+    print(listCollect)
+
+hangman()
