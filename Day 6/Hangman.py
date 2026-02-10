@@ -5,6 +5,13 @@
 
 import random
 
-wordList = 
+wordList = ['camel', 'goat', 'horse', 'cat', 'dog']
+
 
 def hangman(word):
+    randomWord = random.choice(wordList)
+
+    for i in range(0, 5):
+        letterAsk = input("Guess a letter: ")
+        for j in range(len(randomWord)):
+            if (letterAsk == randomWord[j]):
