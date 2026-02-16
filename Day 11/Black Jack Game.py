@@ -15,7 +15,10 @@ def gamestart():
     totalComputer = 0
 
     while playAhead:
+        print('Your Cards: ', end ='')
         print(playerCards)
+        print('Computer Cards: ', end='')
+        print(computerCards)
         ans = input("Do you want to Pick Another Card? (Y/N): ")
         if ans == "Y" or ans == "y":
             playerCards.append(playerDeck())
@@ -23,10 +26,15 @@ def gamestart():
         else:
             playAhead = False
             computerCards.append(computerDeck())
+            print('Your Cards: ', end ='')
+            print(playerCards)
+            print('Computer Cards: ', end ='')
+            print(computerCards)
 
-    for i in range(0, playerCards):
+
+    for i in range(len(playerCards)):
         totalPlayer = totalPlayer + playerCards[i]
-    for i in range(0, computerCards):
+    for i in range(len(computerCards)):
         totalComputer = totalComputer + computerCards[i]
 
     if totalPlayer > 21 and totalComputer > 21:
@@ -45,12 +53,12 @@ def gamestart():
     elif totalPlayer > 21 and totalComputer <= 21:
         print("You Lost!!!")
 
-    elif totalPlayer < 21 and totalComputer < 21:
+    elif totalPlayer <= 21 and totalComputer <= 21:
         ans1 = 21 - totalPlayer
         ans2 = 21 - totalComputer
-        if ans1 > ans2:
+        if ans1 < ans2:
             print("You Won!!!")
-        elif ans1 < ans2:
+        elif ans1 > ans2:
             print("You Lost!!!")
         else:
             print("Tie!!!")
