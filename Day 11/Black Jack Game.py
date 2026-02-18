@@ -3,12 +3,15 @@ import random
 def gamestart():
     print("Welcome to the Black Jack Game!!!")
 
+    totalCards = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+
     playerCards = []
+
     for i in range(0, 2):
-        playerCards.append(playerDeck())
+        playerCards.append(playerDeck(totalCards))
 
     computerCards = []
-    computerCards.append(computerDeck())
+    computerCards.append(computerDeck(totalCards))
 
     playAhead = True
     totalPlayer = 0
@@ -21,11 +24,11 @@ def gamestart():
         print(computerCards)
         ans = input("Do you want to Pick Another Card? (Y/N): ")
         if ans == "Y" or ans == "y":
-            playerCards.append(playerDeck())
+            playerCards.append(playerDeck(totalCards))
 
         else:
             playAhead = False
-            computerCards.append(computerDeck())
+            computerCards.append(computerDeck(totalCards))
             print('Your Cards: ', end ='')
             print(playerCards)
             print('Computer Cards: ', end ='')
@@ -66,13 +69,13 @@ def gamestart():
     else:
         print("Tie!!!")
 
-def playerDeck():
-    return random.randint(1, 11)
+def playerDeck(totalCards):
+    return random.choice(totalCards)
 
-def computerDeck():
-    return random.randint(1, 11)
+def computerDeck(totalCards):
+    return random.choice(totalCards)
 
 
-answer = input("Would you Like to Black Jack? (Y/N): ")
+answer = input("Would you Like to Play Black Jack? (Y/N): ")
 if answer == "Y" or answer == "y":
     gamestart()

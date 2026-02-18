@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="" />
+    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Day 11/Black Jack Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Black Jack Game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,46 +35,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.BMI Calculator (1).executor": "Run",
-    "Python.BMI Calculator.executor": "Run",
-    "Python.Band Name Generator.executor": "Run",
-    "Python.Black Jack Game.executor": "Run",
-    "Python.Calculator Project Via Dictionary.executor": "Run",
-    "Python.Calculator Project.executor": "Run",
-    "Python.FizzBuzz.executor": "Run",
-    "Python.Grade Calculator.executor": "Run",
-    "Python.Hangman.executor": "Run",
-    "Python.Leap Year.executor": "Run",
-    "Python.Life In Weeks.executor": "Run",
-    "Python.Love Calculator.executor": "Run",
-    "Python.Love Yourself.executor": "Run",
-    "Python.Password Generator.executor": "Run",
-    "Python.Pizza Order.executor": "Run",
-    "Python.Rock Paper Scissor Game.executor": "Run",
-    "Python.Tip Calculator.executor": "Run",
-    "Python.Treasure Island.executor": "Run",
-    "Python.Try.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/sanyam/Documents/GitHub/100_Days_Of_Code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.BMI Calculator (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.BMI Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Band Name Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Black Jack Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator Project Via Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grade Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leap Year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Life In Weeks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Love Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Love Yourself.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pizza Order.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rock Paper Scissor Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tip Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Treasure Island.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Try.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sanyam/Documents/GitHub/100_Days_Of_Code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day 10" />
@@ -262,6 +264,7 @@
       <workItem from="1771093112247" duration="3042000" />
       <workItem from="1771187688924" duration="1051000" />
       <workItem from="1771228531857" duration="4173000" />
+      <workItem from="1771435346333" duration="629000" />
     </task>
     <servers />
   </component>
@@ -270,7 +273,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Life_In_Weeks.coverage" NAME="Life In Weeks Coverage Results" MODIFIED="1770869407708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
-    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Black_Jack_Game.coverage" NAME="Black Jack Game Coverage Results" MODIFIED="1771232614942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 11" />
+    <SUITE FILE_PATH="coverage/100_Days_Of_Code$Black_Jack_Game.coverage" NAME="Black Jack Game Coverage Results" MODIFIED="1771435949941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 11" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$BMI_Calculator__1_.coverage" NAME="BMI Calculator (1) Coverage Results" MODIFIED="1770112223160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Tip_Calculator.coverage" NAME="Tip Calculator Coverage Results" MODIFIED="1770056154045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Try.coverage" NAME="Try Coverage Results" MODIFIED="1770749607769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
