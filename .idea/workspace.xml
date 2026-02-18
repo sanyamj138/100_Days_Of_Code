@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 11/Black Jack Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Black Jack Game.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +262,7 @@
       <workItem from="1771093112247" duration="3042000" />
       <workItem from="1771187688924" duration="1051000" />
       <workItem from="1771228531857" duration="4173000" />
-      <workItem from="1771435346333" duration="629000" />
+      <workItem from="1771435346333" duration="1298000" />
     </task>
     <servers />
   </component>
