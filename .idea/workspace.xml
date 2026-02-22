@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 13/Mutate List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 13/Mutate List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 14/Higher Lower Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,48 +35,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.BMI Calculator (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.BMI Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Band Name Generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Black Jack Game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Calculator Project Via Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Calculator Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Grade Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hangman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Leap Year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Life In Weeks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Love Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Love Yourself.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Number Guessing Game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Password Generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pizza Order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prime Number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rock Paper Scissor Game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tip Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Treasure Island.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Try.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sanyam/Documents/GitHub/100_Days_Of_Code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.BMI Calculator (1).executor": "Run",
+    "Python.BMI Calculator.executor": "Run",
+    "Python.Band Name Generator.executor": "Run",
+    "Python.Black Jack Game.executor": "Run",
+    "Python.Calculator Project Via Dictionary.executor": "Run",
+    "Python.Calculator Project.executor": "Run",
+    "Python.FizzBuzz.executor": "Run",
+    "Python.Grade Calculator.executor": "Run",
+    "Python.Hangman.executor": "Run",
+    "Python.Leap Year.executor": "Run",
+    "Python.Life In Weeks.executor": "Run",
+    "Python.Love Calculator.executor": "Run",
+    "Python.Love Yourself.executor": "Run",
+    "Python.Mutate List.executor": "Run",
+    "Python.Number Guessing Game.executor": "Run",
+    "Python.Password Generator.executor": "Run",
+    "Python.Pizza Order.executor": "Run",
+    "Python.Prime Number.executor": "Run",
+    "Python.Rock Paper Scissor Game.executor": "Run",
+    "Python.Tip Calculator.executor": "Run",
+    "Python.Treasure Island.executor": "Run",
+    "Python.Try.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/sanyam/Documents/GitHub/100_Days_Of_Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day 10" />
@@ -270,7 +271,7 @@
       <workItem from="1771486551432" duration="1909000" />
       <workItem from="1771492878707" duration="2702000" />
       <workItem from="1771519802895" duration="33000" />
-      <workItem from="1771752596003" duration="412000" />
+      <workItem from="1771752596003" duration="820000" />
     </task>
     <servers />
   </component>
