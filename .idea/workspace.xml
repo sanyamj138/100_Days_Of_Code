@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Maker/coffee_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Maker/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/High Lower Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/High Lower Game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +280,7 @@
       <workItem from="1771951566693" duration="1899000" />
       <workItem from="1772127589258" duration="1033000" />
       <workItem from="1772206663024" duration="1122000" />
-      <workItem from="1772207799090" duration="575000" />
+      <workItem from="1772207799090" duration="1584000" />
     </task>
     <servers />
   </component>
@@ -287,7 +288,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_Of_Code$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1772207538734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 14/High Lower Game" />
+    <SUITE FILE_PATH="coverage/100_Days_Of_Code$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1772208335259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 14/High Lower Game" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Life_In_Weeks.coverage" NAME="Life In Weeks Coverage Results" MODIFIED="1770869407708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Black_Jack_Game.coverage" NAME="Black Jack Game Coverage Results" MODIFIED="1771486575840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 11" />
     <SUITE FILE_PATH="coverage/100_Days_Of_Code$Prime_Number.coverage" NAME="Prime Number Coverage Results" MODIFIED="1771487698339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 12" />
