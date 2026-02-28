@@ -1,13 +1,13 @@
 Menu = {
-    "Esspresso": {
+    "espresso": {
         "Ingredients": {
             'Coffee' : 50,
-            'Water' : 20,
+            'Water' : 50,
         },
-        'Price' : 200,
+        'Price' : 150,
     },
 
-    "Lattee": {
+    "latte": {
         "Ingredients": {
             'Milk' : 150,
             'Water' : 200,
@@ -16,12 +16,12 @@ Menu = {
         "Price": 250,
     },
 
-    "Cappuccino": {
+    "cappuccino": {
         "Ingredients": {
             'Milk' : 100,
             'Water' : 250,
             'Coffee' : 25,
         },
         "Price": 300,
-    }
+    },
 }
