@@ -48,6 +48,8 @@ def start_machine(ini_milk, ini_water, ini_coffee, total_bill):
 
     total_bill = total_bill + price
 
+    print("HERE IS YOU " + coffee_type.upper() + ", ENJOY IT!")
+
     order_again = input("WOULD YOU LIKE TO ORDER MORE OR PRINT REPORT (Y/N): ")
     if order_again.lower() == "y":
         return start_machine(ini_milk, ini_water, ini_coffee, total_bill)
