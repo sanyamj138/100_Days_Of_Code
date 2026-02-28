@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="" />
+    <list default="true" id="9b2e2a5b-f4c8-4178-99a9-df1d42c64e0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Coffee Maker/coffee_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Coffee Maker/coffee_data.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,6 +280,7 @@
       <workItem from="1772127589258" duration="1033000" />
       <workItem from="1772206663024" duration="1122000" />
       <workItem from="1772207799090" duration="2580000" />
+      <workItem from="1772249220626" duration="690000" />
     </task>
     <servers />
   </component>
