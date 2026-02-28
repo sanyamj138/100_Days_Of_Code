@@ -5,8 +5,7 @@ def report(ini_milk, ini_water, ini_coffee):
     print("WATER: " + str(ini_water))
     print("COFFEE: " + str(ini_coffee))
 
-def start_machine(ini_milk, ini_water, ini_coffee, total_bill):
-    coffee_type = input("WHICH COFFEE TYPE WOULD YOU LIKE OR WOULD YOU LIKE TO GENERATE REPORT? (ESPRESSO, CAPPUCCINO, LATTE, REPORT): ")
+def start_machine(ini_milk, ini_water, ini_coffee, total_bill, coffee_type):
     water = 0
     coffee = 0
     milk = 0
@@ -50,9 +49,17 @@ def start_machine(ini_milk, ini_water, ini_coffee, total_bill):
 
     print("HERE IS YOU " + coffee_type.upper() + ", ENJOY IT!")
 
-    order_again = input("WOULD YOU LIKE TO ORDER MORE OR PRINT REPORT (Y/N): ")
-    if order_again.lower() == "y":
-        return start_machine(ini_milk, ini_water, ini_coffee, total_bill)
+
+    order = True
+
+    while(order):
+        order_again = input("")
+        if(order_again.lower() == "espresso" or order_again.lower() == "cappuccino" or order_again.lower() == "latte" or order_again.lower() == "report"):
+            return start_machine(ini_milk, ini_water, ini_coffee, total_bill, order_again.lower())
+        elif(order_again.lower() == "off"):
+            order = False
+        else:
+            print("INVALID INPUT!")
 
     return total_bill
 
@@ -72,7 +79,9 @@ if start == "Y" or start == "y":
     ini_milk = 500
     total_bill = 0
 
-    bill = start_machine(ini_milk, ini_water, ini_coffee, total_bill)
+    coffee_type = input("WHICH COFFEE TYPE WOULD YOU LIKE OR WOULD YOU LIKE TO GENERATE REPORT? (ESPRESSO, CAPPUCCINO, LATTE, REPORT): ")
+
+    bill = start_machine(ini_milk, ini_water, ini_coffee, total_bill, coffee_type)
 
     print("COFFEE BILL: " + str(bill))
     amt_received = int(input("ENTER THE TOTAL AMOUNT RECEIVED: "))
